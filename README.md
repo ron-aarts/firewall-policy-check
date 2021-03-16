@@ -5,6 +5,7 @@ The script was not very efficient or written very nicely (I have sanitized the s
 However, it did end up saving a colleague about 30 hours every month!<br />
 This is what got me excited about Network Automation!
 
+
 #### Table of Contents
 
 1. [Description](#description)
